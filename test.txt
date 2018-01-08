@@ -1,1 +1,7 @@
 this is my test file 
+This are new lines 
+This are new lines 
+This are new lines 
+This are new lines 
+This are new lines 
+This are new lines 
